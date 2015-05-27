@@ -1,0 +1,325 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  22 MAY 2015 02:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**bare_NDSS.tex
+(./bare_NDSS.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(./bare_NDSS.aux
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+
+LaTeX Warning: Label `fig_sim' multiply defined.
+
+)
+\openout1 = `bare_NDSS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 351.
+LaTeX Font Info:    ... okay on input line 351.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 351.
+LaTeX Font Info:    ... okay on input line 351.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 351.
+LaTeX Font Info:    ... okay on input line 351.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 351.
+LaTeX Font Info:    ... okay on input line 351.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 351.
+LaTeX Font Info:    ... okay on input line 351.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 351.
+LaTeX Font Info:    ... okay on input line 351.
+ (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen119
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen120
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Missing character: There is no ¿ in font ptmr7t!
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 517.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omlptm.fd
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 517.
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
+[]\OT1/ptm/m/n/10 External script unit: \OML/cmm/m/it/10 <\OT1/ptm/m/n/10 scrip
+t type="text/javascript"
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 521.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 521.
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--528
+[]\OT1/ptm/m/n/10 Inline script unit: \OML/cmm/m/it/10 <\OT1/ptm/m/n/10 but-ton
+
+ []
+
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+[2] <myfigurea.pdf, id=15, 542.025pt x 406.51875pt>
+File: myfigurea.pdf Graphic file (type pdf)
+ <use myfigurea.pdf>
+Package pdftex.def Info: myfigurea.pdf used on input line 598.
+(pdftex.def)             Requested size: 180.67499pt x 135.50385pt.
+
+<myfigureb.pdf, id=16, 542.025pt x 406.51875pt>
+File: myfigureb.pdf Graphic file (type pdf)
+ <use myfigureb.pdf>
+Package pdftex.def Info: myfigureb.pdf used on input line 605.
+(pdftex.def)             Requested size: 180.67499pt x 135.50385pt.
+
+<manual_30_websites.pdf, id=17, 994.71625pt x 881.2925pt>
+File: manual_30_websites.pdf Graphic file (type pdf)
+
+<use manual_30_websites.pdf>
+Package pdftex.def Info: manual_30_websites.pdf used on input line 637.
+(pdftex.def)             Requested size: 252.94499pt x 224.1013pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 637--638
+ [][] 
+ []
+
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+[3 <./myfigurea.pdf> <./myfigureb.pdf
+
+pdfTeX warning: pdflatex (file ./myfigureb.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./manual_30_websites.pdf>]
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+Missing character: There is no ¿ in font ptmr7t!
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4
+
+] (./bare_NDSS.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2222 strings out of 493315
+ 36007 string characters out of 6137904
+ 101507 words of memory out of 5000000
+ 5670 multiletter control sequences out of 15000+600000
+ 33007 words of font info for 62 fonts, out of 8000000 for 9000
+ 960 hyphenation exceptions out of 8191
+ 37i,8n,23p,235b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on bare_NDSS.pdf (4 pages, 370629 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
