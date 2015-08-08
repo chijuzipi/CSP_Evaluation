@@ -1,10 +1,11 @@
 # Webpage display and loading time analyzer
--->Scripts:
-firefox-driver.py: the main script for capture the screenshots of webpages and measure the loading time of the page. The captured images are saved to "screenshots" folder, the loading times are written to local file
-ImageAnalyzer.py: analyzing the difference between two images(PNG), giving a numerical result
+HOW TO RUN?
+"python comparator.py"
 
--->Configuration:
-config: the config parameter for the firfox-driver.py, it contains the fireforx profile, logging file name and path
+-->Scripts:
+1) comparator.py: the main script for capture the screenshots of webpages and measure the loading time of the page. The captured images are saved to "screenshots" folder, the loading times are written to local file
+
+2) ImageAnalyzer.py: analyzing the difference between two images(PNG), giving a numerical result
 
 -->Archive: 
 contains url list from Alexa top list
@@ -15,15 +16,12 @@ contains url list from Alexa top list
 2. selenium
   install selenium : pip install selenium
    
-## Brief steps
+## Brief steps of how the script runs
 
-1. crawl Alexa top sites and save it to archive folder
+1. crawl Alexa top 500 sites and save it to archive folder
 
-2. configure your firefox browser to have at least two profiles, one with proxy another without it. Correlate the id of the
-profile in the "config" file
+2. load url from the url list
 
-3. specify the log file name and path to be saved
+3. upon successful loading the webpage, screen save to local
 
-4. run the firefox-driver script: python firefox-dirver.py config
-
-5. collect the screenshots images for differences processing, using the ImageAnalyzer module
+4. collect the screenshots images for differences processing, using the ImageAnalyzer.py
