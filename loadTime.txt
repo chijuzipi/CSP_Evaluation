@@ -277,3 +277,15 @@ profile1_stackoverflow_com.png : 1.28594398499
 profile2_stackoverflow_com.png : 0.999535083771
 profile1_macys_com.png : 2.7456099987
 profile2_macys_com.png : 1.54486680031
+profile1_twitter_com.png : 5.61748814583
+profile1_kohls_com.png : 8.86511802673
+profile2_walmart_com.png : 6.5281560421
+profile2_microsoft_com.png : 2.47662401199
+profile1_answers_com.png : 4.57515382767
+profile2_answers_com.png : 1.62914299965
+profile1_webmd_com.png : 2.87909412384
+profile1_paypal_com.png : 3.72821879387
+profile1_cnet_com.png : 7.21289920807
+profile2_cnet_com.png : 1.57984900475
+profile1_tripadvisor_com.png : 2.2123260498
+profile2_tripadvisor_com.png : 2.87191915512
